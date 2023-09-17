@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NTT DATA supporting Movistar Mexico Eccomerce<br>🌱 I’m currently learning React and Angular<br>💬 Ask me about HTML, JS, CSS, PHP and Databases
+🔭 I’m currently working on NTT DATA supporting Movistar Mexico Eccomerce<br>🌱 I’m currently learning Angular<br>💬 Ask me about HTML, JS, CSS, PHP, Magento and Databases
 
 
 ## 🌐 Socials:
